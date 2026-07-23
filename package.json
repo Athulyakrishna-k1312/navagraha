@@ -1,0 +1,8 @@
+{
+  "name": "navagraha",
+  "version": "1.0.0",
+  "description": "Vedic astrology + numerology web app with a Gemini-powered reading",
+  "dependencies": {
+    "@google/genai": "^2.11.0"
+  }
+}

@@ -1,11 +1,5 @@
 Navagraha – AI-Powered Vedic Astrology & Numerology
 
-Participant Details
-
-- Name: Athulyakrishna K
-- MUID: athulyakrishnak@mulearn
-
----
 
 Project Overview
 
@@ -124,6 +118,3 @@ Future Improvements
 
 ---
 
-License
-
-This project was developed for Epochs '26 – Assignment 10 as an educational demonstration of Generative AI integrated with Vedic astrology and numerology.
